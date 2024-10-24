@@ -21,7 +21,7 @@
   - Q3: $14M with 166.6K transactions
   - Q4: $13M with 161.6K transactions
     
-### Top Card Categories
+#### Top Card Categories
   - Blue: $46M in revenue
   - Silver: $6M in revenue
   - Gold: $2M in revenue
