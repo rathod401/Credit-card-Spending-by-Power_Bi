@@ -1,15 +1,12 @@
-# Credit_card_transaction_report_by_Power_Bi
+# Credit Card Transaction Report Overview
 
-Here are some key points related to the Credit Card Transaction Report, suitable for documentation in a GitHub repository, along with potential icons for clarity:
-
-Credit Card Transaction Report Overview
-:bar_chart: Summary
-Total Revenue: $55M
-Total Transaction Amount: $4.5M
-Total Interest Earned: $8M
-Total Transactions: 656K
+## Here Some Standout Figures
+  - Total Revenue: $55M
+  Total Transaction Amount: $4.5M
+  Total Interest Earned: $8M
+  Total Transactions: 656K
 :card_index: Transaction Breakdown
-By Gender:
+## Total Transacion By Gender:
 Male: 332K transactions
 Female: 323K transactions
 By Card Category:
